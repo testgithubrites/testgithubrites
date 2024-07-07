@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Nagpal</h1>
 <h3 align="center">A passionate and hardworking programmer</h3>
 <img align="right" alt="Coding" src="https://i.stack.imgur.com/XGlad.gif"
-<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw1EFKPj82g_X7ZW_jZszYpq&ust=1720433203454000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCi_6LXlIcDFQAAAAAdAAAAABAE" alt="testgithubrites" /> </p>
+<p align="right"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" alt="testgithubrites" /> </p>
 
 - 🔭 I’m currently working on **LangTranslator**
 

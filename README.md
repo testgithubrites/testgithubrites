@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Nagpal</h1>
 <h3 align="center">A passionate and hardworking programmer</h3>
 <img align="right" alt="Coding" src="https://i.stack.imgur.com/XGlad.gif"
-<p align="right"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" align="right" width="100" height="100 alt="testgithubrites" /> </p>
+<p align="right"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" align="right" width="800" height="800 alt="testgithubrites" /> </p>
 
 - 🔭 I’m currently working on **LangTranslator**
 

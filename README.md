@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Modern AI tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/testgithubrites/testgithubrites](https://github.com/testgithubrites/testgithubrites)
+- 👨‍💻 All of my projects are available at [https://github.com/testgithubrites](https://github.com/testgithubrites/testgithubrites)
 
 - 📫 How to reach me **nagpalshruti30@gmail.com**
 

@@ -30,3 +30,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=testgithubrites&show_icons=true&locale=en&layout=compact" alt="testgithubrites" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=testgithubrites&" alt="testgithubrites" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=testgithubrites&show_icons=true&locale=en&layout=compact" alt="testgithubrites" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=testgithubrites&show_icons=true&locale=en" alt="testgithubrites" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=testgithubrites&" alt="testgithubrites" /></p>
+

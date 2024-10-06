@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Nagpal</h1>
 <h3 align="center">A passionate and hardworking programmer</h3>
 <img align="right" alt="Coding" src="https://i.stack.imgur.com/XGlad.gif"
-<p align="right"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" align="right" width="400" height="400 alt="testgithubrites" /> </p>
+<p align="right"> <img src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" align="right" width="200" height="200 alt="testgithubrites" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=testgithubrites" alt="testgithubrites" /></a> </p>
 - 🔭 I’m currently working on **LangTranslator**
 

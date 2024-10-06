@@ -99,17 +99,11 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
----
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=testgithubrites&" alt="testgithubrites" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=testgithubrites&show_icons=true&locale=en&layout=compact" alt="testgithubrites" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=testgithubrites&show_icons=true&locale=en" alt="testgithubrites" />
-</p>
+</div>

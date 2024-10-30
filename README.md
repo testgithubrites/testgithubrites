@@ -1,6 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on LangTranslator<br>🌱 I’m currently learning GenerativeAI<br>👯 I’m looking to collaborate on ML Projects<br>🤝 I’m looking for help with Modern AI tools<br>👨‍💻 All of my projects are available at https://github.com/testgithubrites<br>📫 How to reach me nagpalshruti30@gmail.com<br>⚡ Fun fact I think I am popular<br>
-
+ # 💫 About Me:
+<table>
+  <tr>
+    <td>
+      🔭 I’m currently working on LangTranslator<br>
+      🌱 I’m currently learning GenerativeAI<br>
+      👯 I’m looking to collaborate on ML Projects<br>
+      🤝 I’m looking for help with Modern AI tools<br>
+      👨‍💻 All of my projects are available at https://github.com/testgithubrites<br>
+      📫 How to reach me nagpalshruti30@gmail.com<br>
+      ⚡ Fun fact I think I am popular
+    </td>
+    <td>
+      <img src="https://camo.githubusercontent.com/238055d74a4a963ecc573726f31395a1d523e264c3f17ed5316ca13e21c8a3dc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f68652f617661746172732f706e672f6d656d6f5f32302e706e67" width="200" height="200" alt="testgithubrites" />
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuru_2604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrutinagpal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShrutiNagpal20) 

@@ -3,7 +3,7 @@
   <tr>
     <td>
       🔭 I’m currently working on Vision Transformers<br>
-      🌱 I’m currently learning GenerativeAI<br>
+      🌱 I’m currently learning Generative AI<br>
       👯 I’m looking to collaborate on ML Projects<br>
       🤝 I’m looking for help with Modern AI tools<br>
       👨‍💻 All of my projects are available at https://github.com/testgithubrites<br>

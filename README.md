@@ -27,15 +27,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=testgithubrites&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=testgithubrites&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=testgithubrites&theme=radical&hide_border=false" />
+      <img src="https://streak-stats.demolab.com?user=testgithubrites&theme=radical&hide_border=false" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testgithubrites&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=testgithubrites&theme=radical&hide_border=false&layout=compact" />
     </td>
   </tr>
 </table>

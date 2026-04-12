@@ -43,8 +43,22 @@
   </tr>
 </table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=testgithubrites&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Stats & Achievements
+
+<p align="center">
+  <a href="https://github.com/testgithubrites">
+    <img src="https://img.shields.io/badge/⭐_Stars-1-blue?style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/testgithubrites">
+    <img src="https://img.shields.io/badge/🍴_Forks-2-green?style=for-the-badge" alt="Forks"/>
+  </a>
+  <a href="https://github.com/testgithubrites">
+    <img src="https://img.shields.io/badge/📝_Commits-100+-orange?style=for-the-badge" alt="Commits"/>
+  </a>
+  <a href="https://github.com/testgithubrites">
+    <img src="https://img.shields.io/badge/👥_Followers-10+-red?style=for-the-badge" alt="Followers"/>
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

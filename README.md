@@ -12,7 +12,7 @@
       ⚡ Fun fact I think I am popular
     </td>
     <td>
-      <img src="[https://camo.githubusercontent.com/238055d74a4a963ecc573726f31395a1d523e264c3f17ed5316ca13e21c8a3dc/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f68652f617661746172732f706e672f6d656d6f5f32302e706e67](https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=1&uuid=d3547471-234e-4c36-a6d7-ab971893a6c1&query=Github+character)" width="200" height="200" alt="testgithubrites" />
+      <img src="https://avatars.githubusercontent.com/u/24390652?v=4" width="200" height="200" alt="testgithubrites" />
     </td>
   </tr>
 </table>

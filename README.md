@@ -8,7 +8,7 @@
       🤝 I’m looking for help with Modern AI tools<br>
       👨‍💻 All of my projects are available at https://github.com/testgithubrites<br>
       📫 How to reach me <a href="mailto:nagpalshruti30@gmail.com">nagpalshruti30@gmail.com</a><br>
-      📄 Know about my experiences https://bit.ly/3Q1nkQM<br>
+      📄 Know about my experiences https://bit.ly/4ha3jCR<br>
       ⚡ Fun fact I think I am popular
     </td>
     <td>
